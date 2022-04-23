@@ -1,0 +1,27 @@
+{
+  "name": "4DebugBot",
+  "version": "1.0.0",
+  "description": "4DebugBot",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "Akif DORA",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/voice": "^0.9.0",
+    "better-sqlite3-helper": "^3.1.4",
+    "canvacord": "^5.2.3",
+    "discord-buttons": "^4.0.0",
+    "discord-logs": "^2.0.1",
+    "discord.js": "^13.0.1",
+    "express": "^4.17.3",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.1",
+    "ms": "^2.1.3",
+    "node": "16.6.1",
+    "quick.db": "^7.1.3",
+    "reaction-role": "^4.1.1"
+  },
+  "keywords": []
+}
